@@ -1,0 +1,49 @@
+/* BootNative - by Stylix58 - MIT license - https://bootnative.glitch.me/ */
+
+/* Button */
+.btn {
+  background: blue;
+  color: white;
+  border: 0;
+  outline: 0;
+  min-height: 3em;
+  min-width: 3.5em;
+  user-select: none;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: darkblue;
+}
+
+.btn:focus {
+  box-shadow: 0 0 0 0.21rem grey;
+}
+
+/* List */
+
+.list {
+  list-style-type: "- ";
+}
+
+.list li {
+  margin-bottom: 0.5em;
+}
+
+/* Emoji */
+
+.emoji {
+  width: 20px;
+  margin-left: 2px;
+}
+
+/* Code block */
+
+.codebck {
+  background-color: black;
+  color: white;
+  padding: 0.2em;
+  border: solid grey 4px;
+  border-radius: 10%;
+}

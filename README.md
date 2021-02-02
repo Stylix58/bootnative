@@ -1,2 +1,3 @@
-# bootnative
-A CSS framework made for redefine Bootstrap.
+# BootNative
+
+Little clone project of Bootstrap.
